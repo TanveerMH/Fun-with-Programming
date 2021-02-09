@@ -1,0 +1,11 @@
+# Step: 1
+  # Go To This URL : chrome://dino/
+# Step: 2
+  # Click Right Button on mouse and select Inspect Element.
+# Step: 3 
+  # Select console
+#Step: 5 
+  # Write the following in the console
+  Runner.instance_.gameOver = () => { }
+# Step: 6
+  # Press Enter. And all set.
